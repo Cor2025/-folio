@@ -10,6 +10,3 @@ title: Kunst onderweg 2
 
 **Gezien in Maastricht op 12-04-2015**
 
-![](/Mijn-fotoblog/img/IMGP8532.jpg)
-
-**Gezien in Venlo op 08-10-2017**
