@@ -14,6 +14,6 @@ title: Kunst onderweg 2
 
 **Gezien in Heerlen op 25-05-2015**
 
-![](img/IMGP4834.jpg)
+![](/img/IMGP4834.jpg)
 
-**Gezien in Heerlen II 0- 25-05-2015**
+**Gezien in Heerlen II op 25-05-2015**
