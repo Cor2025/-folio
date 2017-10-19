@@ -10,3 +10,6 @@ title: Kunst onderweg 2
 
 **Gezien in Maastricht op 12-04-2015**
 
+![](/img/IMGP4840.jpg)
+
+**Gezien in Heerlen op 25-05-2015**
