@@ -26,4 +26,4 @@ title:  Kunst onderweg I
 
 ![](/img/IMGP5278.jpg-2)
 
-**Gezien in Heerlen op 27-09-2017**
+**Gezien in Heerlen op 27-09-2015**
