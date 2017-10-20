@@ -1,3 +1,4 @@
+
 ---
 layout: post
 title:  Kunst onderweg I
@@ -23,3 +24,6 @@ title:  Kunst onderweg I
 **Portret op winkeldeur in Roermond.**
 **Gezien op 25 oktober 2014**
 
+![](/img/IMGP5278.jpg-2)
+
+**Gezien in Heerlen op 27-09-2017**
