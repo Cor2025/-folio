@@ -27,8 +27,8 @@ title:  Kunst onderweg I
 
 **Gezien in Heerlen op 27-09-2015**
 
-![](/img/IMGP5913.jpg)
+![](/img/IMGP5873.jpg-2)
 
-**Gezien onder viaduct Kitskensdal Roermond**
+**Nabijheid station Roermond**
 
 
