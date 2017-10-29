@@ -25,3 +25,7 @@ title: Kunst onderweg 2
 ![](/img/IMGP7959.jpg)
 
 **Gezien in Antwerpen op 24-04-2017**
+
+![](/img/IMGP5759.jpg)
+
+**Gezien in Haarlem op 23-10-2015**
