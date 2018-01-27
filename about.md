@@ -18,7 +18,7 @@ die ik gefotografeerd heb.
 <br/>
 <span class="contacticon center">
 	<a href="mailto:Cor_20@yahoo.com"><i class="fa fa-envelope-square"></i></a>
-	
 	</span>
+	
 
 
