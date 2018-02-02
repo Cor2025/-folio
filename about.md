@@ -4,7 +4,7 @@ title: about
 permalink: /about/
 ---
 
-<img src="ïmg/IMGP4608.jpg">
+![](/img/IMGP4398.jpg-2)
 
 <br/>
 Mijn naam is Cor Cuijpers
