@@ -9,3 +9,7 @@ title:  Kunst onderweg 3
 ![](/img/Kapellerlaan.jpg)
 
 **Gezien op 22-10-2016 Kapellerlaan Roermond**
+
+![](/img/8070-2.jpg)
+
+**Gezien in Arnhem op 20-05-2017**
