@@ -13,3 +13,7 @@ title:  Kunst onderweg 3
 ![](/img/IMGP8070-3.jpg)
 
 **Gezien in Arnhem op 20-05-2017**
+
+![](/img/IMGP2946.jpg)
+
+**Gezien in Roermond op 14-07-2014**
