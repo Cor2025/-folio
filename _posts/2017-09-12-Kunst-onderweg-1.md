@@ -2,32 +2,32 @@
 layout: post
 title:  Kunst onderweg I
 ---
-![](/img/IMGP4398.jpg-2)
+![](/-folios/img/IMGP4398.jpg-2)
 
 **Gezien in Eindhoven**
 
-![](/img/IMGP8070.jpg-2)
+![](/-folios/img/IMGP8070.jpg-2)
 
 **Gezien in Arnhem op 20 mei 2017 I**
 
-![](/img/IMGP8073.jpg-2)
+![](/-folios/img/IMGP8073.jpg-2)
 
 **Gezien in Arnhem op 20 mei 2017 II**
 
-![](/img/IMGP8082.jpg-2)
+![](/-folios/img/IMGP8082.jpg-2)
 
 **Gezien in Arnhem op 20 mei 2017 III**
 
-![](/img/Vrouw.jpg)
+![](/-folios/img/Vrouw.jpg)
 
 **Portret op winkeldeur in Roermond.**
 **Gezien op 25 oktober 2014**
 
-![](/img/IMGP5278.jpg-2)
+![](/-folios/img/IMGP5278.jpg-2)
 
 **Gezien in Heerlen op 27-09-2015**
 
-![](/img/IMGP5873.jpg-2)
+![](/-folios/img/IMGP5873.jpg-2)
 
 **Nabijheid station Roermond**
 
